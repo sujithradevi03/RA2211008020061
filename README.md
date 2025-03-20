@@ -12,4 +12,4 @@ Uses HTTPX (async HTTP client) to fetch numbers.
 Maintains a rolling window of unique numbers.
 Handles errors & timeouts (ignores responses > 500ms).
 Returns formatted JSON output.
-## http://localhost:9876/numbers/e
+## localhost for average calculator http microservice is : http://localhost:9876/numbers/e
