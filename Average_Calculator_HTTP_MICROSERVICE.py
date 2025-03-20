@@ -56,3 +56,4 @@ async def get_numbers(number_id: str):
         "numbers": new_numbers,
         "avg": avg
     }
+# localhost : http://localhost:9876/numbers/e
